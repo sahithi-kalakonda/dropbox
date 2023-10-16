@@ -1,0 +1,144 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Upload and Browse</title>
+</head>
+<body>
+    <<form action="upload.php" method="post" enctype="multipart/form-data" onsubmit="return checkFileSize()">
+        <input type="file" name="fileToUpload" id="fileToUpload">
+        <input type="submit" value="Upload File">
+    </form>
+
+    <h2>Uploaded Files:</h2>
+    <ul id="fileList"></ul>
+    <script>
+        // Function to handle file input change
+        document.getElementById('fileInput').addEventListener('change', function () {
+            var fileList = document.getElementById('fileList');
+            fileList.innerHTML = ''; // Clear the file list
+
+            var files = this.files; // Get selected files
+            for (var i = 0; i < files.length; i++) {
+                var file = files[i];
+                var listItem = document.createElement('li');
+                var fileLink = document.createElement('a');
+                fileLink.href = URL.createObjectURL(file); // Create a URL for the file
+                fileLink.textContent = file.name; // Display the file name
+                fileLink.download = file.name; // Set the download attribute to enable downloading
+                listItem.appendChild(fileLink);
+                fileList.appendChild(listItem);
+            }
+        });
+    </script>
+</body>
+</html> -->
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.966.0.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Management System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            width: 50%;
+            margin: 0 auto;
+        }
+
+        input[type="file"] {
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h2>File Upload</h2>
+        <form action="" method="post" enctype="">
+            <input type="hidden" name="MAX_FILE_SIZE" value="10485760" />
+            <input type="file" name="fileToUpload" id="fileToUpload">
+            <input type="submit" value="Upload File" name="submit">
+        </form>
+
+        <h2>Uploaded Files</h2>
+        <table>
+            <tr>
+                <th>File Name</th>
+                <th>Download URL</th>
+                <th>Actions</th>
+            </tr>
+            <tr>
+                <td>example_file_1.pdf</td>
+                <td><a href="example_file_1.pdf" target="_blank">Download</a></td>
+                <td><a class="btn" href="">Update</a><a class="btn" href="">Delete</a></td>
+            </tr>
+            <!-- Add more rows for additional files -->
+        </table>
+    </div>
+    <script>
+        AWS.config.update({
+            accessKeyId: 'AKIAQLR4HGSW7L37BSOB',
+            secretAccessKey: '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',
+            region: 'US East (N. Virginia) us-east-1'
+        });
+    
+        // Create a new instance of the S3 object
+        var s3 = new AWS.S3();
+    
+        // Define the parameters for the S3 call (e.g., getObject)
+        var params = {
+            Bucket: 'django-s3-bucket2',
+            Key: 'YOUR_OBJECT_KEY'
+        };
+    
+        // Make an S3 API call
+        s3.getObject(params, function(err, data) {
+            if (err) {
+                console.log(err, err.stack);
+            } else {
+                console.log(data);
+                // Use the data retrieved from S3 here
+            }
+        });
+    
+    </script>
+</body>
+
+</html>
