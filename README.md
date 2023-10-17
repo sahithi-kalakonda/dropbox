@@ -31,3 +31,5 @@ Web Application: (https://sahithictproject.ml/)
 * Lambda: When a delete event occurs in an S3 bucket, it calls the Lambda function that was defined in nodeJS, which then calls an SNS topic to send an email notification.
 * SNS: With the help of SNS (Simple Notification Service), an adaptable and completely managed messaging service offered by AWS, messages or notifications can be sent to a number of destinations, including email, SMS, and other AWS services.
 * AWS Amplify: AWS Amplify is a collection of tools and services that make it easier to create scalable and secure full-stack apps. It does this by accelerating the development process with features like authentication, APIs, and storage.
+
+### Sample Screenshots
