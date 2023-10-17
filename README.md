@@ -14,7 +14,7 @@ Youtube Video: [DropBox Demo](https://www.youtube.com/watch?v=La5XdLTHq_o)
 Web Application: (https://sahithictproject.ml/)
 
 ### AWS Architecture of the project
-![CloudProject1](https://user-images.githubusercontent.com/39228894/67639369-262c1f80-f8ac-11e9-8f90-4edd92196087.jpg)
+![CloudProject1](https://github.com/sahithi-kalakonda/dropbox/blob/485636036015292b8045701710e04d412030fbf2/arch.jpg)
 
 
 ### AWS Components to be setup
