@@ -15,3 +15,20 @@ Web Application: (https://sahithictproject.ml/)
 
 ### AWS Architecture of the project
 ![CloudProject1](https://user-images.githubusercontent.com/39228894/67639369-262c1f80-f8ac-11e9-8f90-4edd92196087.jpg)
+
+
+### AWS Components to be setup
+* EC2:
+* AutoScaling Group:
+* Load Balancer:
+* S3
+* S3 IA
+* AWS Glacier for S3 bucket:
+* RDS:
+* CloudFront:
+* Route 53
+* CloudWatch
+* Lambda:
+* SNS:
+* AWS Amplify:
+* 
