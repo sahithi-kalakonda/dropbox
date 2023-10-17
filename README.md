@@ -34,4 +34,7 @@ Web Application: (https://sahithictproject.ml/)
 
 ### Sample Screenshots
 User Registration
-![USser Registration](https://user-images.githubusercontent.com/39228894/67639370-29271000-f8ac-11e9-897b-da883cf9ab00.png)
+![User Registration](https://github.com/sahithi-kalakonda/dropbox/blob/f62e333d5dbc40f98972728194d40dae352f183b/userRegistartion.png)
+
+Custom login
+![Custom login](https://github.com/sahithi-kalakonda/dropbox/blob/f62e333d5dbc40f98972728194d40dae352f183b/userRegistartion.png)
