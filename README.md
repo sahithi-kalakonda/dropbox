@@ -36,5 +36,8 @@ Web Application: (https://sahithictproject.ml/)
 User Registration
 ![User Registration](https://github.com/sahithi-kalakonda/dropbox/blob/f62e333d5dbc40f98972728194d40dae352f183b/userRegistartion.png)
 
-Custom login
-![Custom login](https://github.com/sahithi-kalakonda/dropbox/blob/f62e333d5dbc40f98972728194d40dae352f183b/userRegistartion.png)
+Custom Login
+![Custom login](https://github.com/sahithi-kalakonda/dropbox/blob/de32ccd42a21482a247ec0e3a368a5a926ff2dfd/login.png)
+
+File Upload
+![File Upload](https://github.com/sahithi-kalakonda/dropbox/blob/de32ccd42a21482a247ec0e3a368a5a926ff2dfd/login.png)
