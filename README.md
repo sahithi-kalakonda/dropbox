@@ -14,4 +14,4 @@ Youtube Video: [DropBox Demo](https://www.youtube.com/watch?v=La5XdLTHq_o)
 Web Application: (https://sahithictproject.ml/)
 
 ### AWS Architecture of the project
-![CloudProject1]([https://app.diagrams.net/#G1ij6wKNvPEx4Gmx6zqOJyEPdf0uP5x6sP](https://app.gemoo.com/share/image-annotation/572723531601575936?codeId=DW2ZL77z0JAw6&origin=imageurlgenerator)https://app.gemoo.com/share/image-annotation/572723531601575936?codeId=DW2ZL77z0JAw6&origin=imageurlgenerator)
+![CloudProject1](https://app.gemoo.com/share/image-annotation/572723531601575936?codeId=DW2ZL77z0JAw6&origin=imageurlgenerator)
