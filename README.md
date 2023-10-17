@@ -33,3 +33,5 @@ Web Application: (https://sahithictproject.ml/)
 * AWS Amplify: AWS Amplify is a collection of tools and services that make it easier to create scalable and secure full-stack apps. It does this by accelerating the development process with features like authentication, APIs, and storage.
 
 ### Sample Screenshots
+User Registration
+![USser Registration](https://user-images.githubusercontent.com/39228894/67639370-29271000-f8ac-11e9-897b-da883cf9ab00.png)
