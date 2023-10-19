@@ -52,4 +52,4 @@ Files Uploaded to S3 Bucket
 ![Files Uploaded to S3 Bucket](https://github.com/sahithi-kalakonda/dropbox/blob/c4394d3b18984db501c04ae674104e3d1ed357c4/S3fileupload.png)
 
 Transfer Acceleration
-![Transfer Acceleration]()
+![Transfer Acceleration](https://github.com/sahithi-kalakonda/dropbox/blob/01818bb0becf699f16783c5671645897aa892025/TrnasferAcceleration.png)
