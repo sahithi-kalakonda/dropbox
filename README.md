@@ -50,3 +50,6 @@ Database Update
 
 Files Uploaded to S3 Bucket
 ![Files Uploaded to S3 Bucket](https://github.com/sahithi-kalakonda/dropbox/blob/c4394d3b18984db501c04ae674104e3d1ed357c4/S3fileupload.png)
+
+Transfer Acceleration
+![Transfer Acceleration]()
