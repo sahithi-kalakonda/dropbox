@@ -51,10 +51,13 @@ File Download
 ![File Download](https://github.com/sahithi-kalakonda/dropbox/blob/018c8f8038c1ef468b549dd53ced79db1735c792/Filedownload.png)
 
 File Update
-![File Update]()
+![File Update](https://github.com/sahithi-kalakonda/dropbox/blob/543a15521bdaddda641dd5b87438cfa3aeec2fb0/FileUpdate.png)
 
 File Delete
 ![File Delete](https://github.com/sahithi-kalakonda/dropbox/blob/3ce6b9b45d81ca68b16239d356aefd30b65559df/delete.png)
+
+Admin LoginPage
+![Admin LoginPage](https://github.com/sahithi-kalakonda/dropbox/blob/3ce6b9b45d81ca68b16239d356aefd30b65559df/delete.png)
 
 Database Update
 ![Database Update](https://github.com/sahithi-kalakonda/dropbox/blob/9fbf1f191e412cd34ff42cd7638058e286524516/Screen%20Shot%202023-10-16%20at%208.44.38%20PM.png)
