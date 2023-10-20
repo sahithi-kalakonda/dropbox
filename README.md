@@ -11,7 +11,7 @@ DropBox is an AWS cloud-hosted web application provides authorized users with a 
 ### Demo
 Youtube Video: [DropBox Demo](https://youtu.be/TUMPflpfV4k)
 
-Web Application: [Website Link](vaultwave.online)
+Web Application: [Website Link](http://vaultwave.online)
 
 ### AWS Architecture of the project
 ![CloudProject1](https://github.com/sahithi-kalakonda/dropbox/blob/485636036015292b8045701710e04d412030fbf2/arch.jpg)
