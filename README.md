@@ -50,6 +50,9 @@ File Upload
 File Download
 ![File Download](https://github.com/sahithi-kalakonda/dropbox/blob/018c8f8038c1ef468b549dd53ced79db1735c792/Filedownload.png)
 
+File Update
+![File Update]()
+
 File Delete
 ![File Delete](https://github.com/sahithi-kalakonda/dropbox/blob/3ce6b9b45d81ca68b16239d356aefd30b65559df/delete.png)
 
@@ -57,7 +60,7 @@ Database Update
 ![Database Update](https://github.com/sahithi-kalakonda/dropbox/blob/9fbf1f191e412cd34ff42cd7638058e286524516/Screen%20Shot%202023-10-16%20at%208.44.38%20PM.png)
 
 Files Uploaded to S3 Bucket
-![Files Uploaded to S3 Bucket](https://github.com/sahithi-kalakonda/dropbox/blob/c4394d3b18984db501c04ae674104e3d1ed357c4/S3fileupload.png)
+![Files Uploaded to S3 Bucket](https://github.com/sahithi-kalakonda/dropbox/blob/e38898b9aa6d07f68542bfa93540387c608a0e7f/S3Bucketfiles.png)
 
 Transfer Acceleration
 ![Transfer Acceleration](https://github.com/sahithi-kalakonda/dropbox/blob/01818bb0becf699f16783c5671645897aa892025/TrnasferAcceleration.png)
