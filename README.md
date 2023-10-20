@@ -45,7 +45,7 @@ Custom Login
 ![Custom login](https://github.com/sahithi-kalakonda/dropbox/blob/de32ccd42a21482a247ec0e3a368a5a926ff2dfd/login.png)
 
 File Upload
-![File Upload](https://github.com/sahithi-kalakonda/dropbox/blob/80977f45ae3284a56316f808d7a9f83785f629c5/fileupload.png)
+![File Upload](https://github.com/sahithi-kalakonda/dropbox/blob/237817ea9a291e406e61bf7d7f08e8213a80adca/upload.png)
 
 File Download
 ![File Download](https://github.com/sahithi-kalakonda/dropbox/blob/1283bd98c022c12ab73d65e25bd82a962905ba6b/myfiles.png)
