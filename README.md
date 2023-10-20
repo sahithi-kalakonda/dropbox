@@ -50,6 +50,9 @@ File Upload
 File Download
 ![File Download](https://github.com/sahithi-kalakonda/dropbox/blob/1283bd98c022c12ab73d65e25bd82a962905ba6b/myfiles.png)
 
+File Delete
+![File Delete](https://github.com/sahithi-kalakonda/dropbox/blob/3ce6b9b45d81ca68b16239d356aefd30b65559df/delete.png)
+
 Database Update
 ![Database Update](https://github.com/sahithi-kalakonda/dropbox/blob/9fbf1f191e412cd34ff42cd7638058e286524516/Screen%20Shot%202023-10-16%20at%208.44.38%20PM.png)
 
