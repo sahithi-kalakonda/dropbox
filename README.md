@@ -14,7 +14,7 @@ Youtube Video: [DropBox Demo](https://youtu.be/k2G63HiT3Ps)
 ### Detailed Website Video with instances
 Youtube Video: [Detailed Website Video](https://youtu.be/umtCgPsoYMk)
 
-Web Application: [Website Link](http://vaultwave.online)
+Web Application: [http://vaultwave.online]()
 
 ### AWS Architecture of the project
 ![CloudProject1](https://github.com/sahithi-kalakonda/dropbox/blob/485636036015292b8045701710e04d412030fbf2/arch.jpg)
