@@ -48,7 +48,7 @@ File Upload
 ![File Upload](https://github.com/sahithi-kalakonda/dropbox/blob/237817ea9a291e406e61bf7d7f08e8213a80adca/upload.png)
 
 File Download
-![File Download](https://github.com/sahithi-kalakonda/dropbox/blob/1283bd98c022c12ab73d65e25bd82a962905ba6b/myfiles.png)
+![File Download](https://github.com/sahithi-kalakonda/dropbox/blob/018c8f8038c1ef468b549dd53ced79db1735c792/Filedownload.png)
 
 File Delete
 ![File Delete](https://github.com/sahithi-kalakonda/dropbox/blob/3ce6b9b45d81ca68b16239d356aefd30b65559df/delete.png)
